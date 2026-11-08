@@ -1,0 +1,5 @@
+look-override/
+*.png
+*.webp
+.env
+node_modules/
